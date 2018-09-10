@@ -35,7 +35,7 @@ nav ul {
   margin: 8px 0px 10px;
   padding: 0;
   font-size: 20px;
-  background-color: #CC000000;
+  background-color:pink;
   color: black;
 }
 
@@ -48,14 +48,18 @@ nav a {
   padding: 10px 20px;
 }
 
+/*
 nav {
   width: 100%; //width should be a percentage for responsiveness
-  height: 5px; //height should be px. Adjust to your liking
+  height: px; //height should be px. Adjust to your liking
     color: #0b98de;//hex color code should be used
 }
+*/
+/*
   nav a {
  }
   nav a:hover {
   }
   #logo {
   }
+*/
